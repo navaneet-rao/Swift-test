@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0"
+  },
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "mymodules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scr/app.js"
+  },
+  "author": "Navaneet R Rao",
+  "license": "ISC",
+  "description": ""
+}
